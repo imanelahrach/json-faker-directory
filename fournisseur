@@ -1,6 +1,6 @@
-{
-    "fournisseur" : [
-     {
+
+     [
+     {"id":1,
         "firstName" : "hamza",
         "lastName" : "moprabit",
         "email" : "hamza@gmail.com",
@@ -9,7 +9,7 @@
         "phone" : "123-456-7890"
          
       },
-    {
+    {"id":2,
         "firstName" : "Ahmed",
         "lastName" : "Essa",
         "email" : "ahmed.essa@gmail.com",
@@ -18,7 +18,7 @@
         "phone" : "111-222-3333"
       
       },
-       {
+       {"id":3,
         "firstName" : "nihad",
         "lastName" : "Essa",
         "email" : "usama.essa@gmail.com",
@@ -27,7 +27,7 @@
       
          
       },
-       {
+       {"id":4,
         "firstName" : "noura",
         "lastName" : "Essa",
         "email" : "usama.essa@gmail.com",
@@ -36,7 +36,7 @@
         "phone" : "888-777-6699"
          
       },
-      {
+      {"id":5,
         "firstName" : "imane",
         "lastName" : "Essa",
         "email" : "usama.essa@gmail.com",
@@ -46,4 +46,4 @@
      
       }
       ]
-  }
+
